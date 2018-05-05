@@ -1,0 +1,17 @@
+.image{
+  height: 200px;
+  width: 50%;
+  margin-right: auto;
+}
+.barra {
+background-color: grey;
+
+top: 0;
+left: 0;
+right: 0;
+height: 35px;}
+
+#header{margin-right: 25px;
+
+float:right;
+}
